@@ -19,7 +19,7 @@
 
   ## 🏠 About Me
 
-  I'm passionate about **infrastructure automation** and the **FOSS community**. I build tools that solve real problems in distibuted computation & storage environments.
+  I'm passionate about **infrastructure automation** and the **FOSS community**. I build tools that solve problems in distributed computation & storage environments.
   
   - 🌐 Focused on **declarative infrastructure** and **security-first design**
   - 💾 Deep diving into **Ceph**, **Docker**, **Kubernetes**, **PVE**, **Windows Server**
