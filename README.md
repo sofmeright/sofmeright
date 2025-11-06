@@ -25,6 +25,7 @@
 
   ### 🌐 Networking & Security
   ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+  ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
   ![Netbird](https://img.shields.io/badge/Netbird-5340FF?style=for-the-badge&logoColor=white)
   ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
   ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
