@@ -86,6 +86,7 @@
   ### Identity / Security
   ![Anubis](https://img.shields.io/badge/Anubis-000000?style=for-the-badge&logoColor=white)
   ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=for-the-badge&logoColor=white)
+  ![Hyrulian Shield](https://img.shields.io/badge/Hyrulian_Shield-0E4C92?style=for-the-badge&logo=nintendo&logoColor=white)
   ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=for-the-badge&logoColor=white)
   ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
   ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logoColor=white)
