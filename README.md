@@ -18,6 +18,7 @@
   - 🌐 Focused on **declarative infrastructure** and **security-first design**
   - 💾 Deep diving into **Ceph**, **Docker**, **Kubernetes**, **PVE**, **Windows Server**
   - 🏗️ I maintain the production environment for PrecisionPlanIT ~ Proxmox, K8s, Ceph storage, and automated deployments
+  - 🎵 Coding to: [![Ethereal Bliss](https://img.shields.io/badge/Deep_Focus-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/76iGZMgSbNk1JXH9gd6bNg?si=93f768dcfbd44511) [![EDM Anthems Forever](https://img.shields.io/badge/Chill_Vibes-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/2LwbPxJdGjnqk0YIqpQY5N?si=60549587cf06429f)
 
   ---
 
