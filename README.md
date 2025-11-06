@@ -42,15 +42,22 @@
   ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
   ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=for-the-badge&logoColor=white)
 
+  ### Hardware
+  ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![AMD Radeon](https://img.shields.io/badge/AMD_Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![Eaton 5PX 3000](https://img.shields.io/badge/Eaton_5PX_3000-00A651?style=for-the-badge&logoColor=white)
+  ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+  ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![NetApp](https://img.shields.io/badge/NetApp-0067C5?style=for-the-badge&logo=netapp&logoColor=white)
+  ![Supermicro](https://img.shields.io/badge/Supermicro-2EA043?style=for-the-badge&logoColor=white)
+
   ### Infrastructure & Virtualization
   ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
   ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
-  ![Supermicro](https://img.shields.io/badge/Supermicro-2EA043?style=for-the-badge&logoColor=white)
   ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-  ![NetApp](https://img.shields.io/badge/NetApp-0067C5?style=for-the-badge&logo=netapp&logoColor=white)
 
   ### Operating Systems
   ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
