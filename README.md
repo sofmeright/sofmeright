@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Homelab+Enthusiast;Infrastructure+Automation;Open+Source+Contributor;Proxmox+%7C+Kubernetes+%7C+Ceph" alt="Typing SVG" />
 
   <p>
-  <img src="./assets/precisionplanit-logo.png" alt="PrecisionPlanIT" height="20" style="vertical-align: middle; margin-right: 8px;"/>
+  <img src="./assets/precisionplanit-logo-v0.2.png" alt="PrecisionPlanIT" height="20" style="vertical-align: middle; margin-right: 8px;"/>
   <strong>Founder of PrecisionPlanIT</strong>
   </p>
   
