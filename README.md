@@ -207,7 +207,7 @@
 
   <img src="./assets/neeko-shrugging-fan-art_626553683592609833.png" alt="Neeko Shrugging" width="200"/>
 
-  ### *"I adore the FOSS community and I am so inspired by the many who develop the projects that I use in my homelab."*
+  ### *"I adore the FOSS community and I am so inspired by its participants."*
 
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofmeright@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
