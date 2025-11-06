@@ -45,6 +45,20 @@
   I'm vegan by the way. 🤧
 
   ---
+
+  ## 📊 GitHub Stats
+
+  <div align="center">
+
+  ![Kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofmeright&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofmeright&layout=compact&theme=tokyonight&hide_border=true)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofmeright&theme=tokyonight&hide_border=true)
+
+  </div>
+
+  ---
   
   ## 🛠️ Tech Stack
 
@@ -120,20 +134,6 @@
   ![S3 (Ceph RGW/MinIO)](https://img.shields.io/badge/S3_(Ceph_RGW%2FMinIO)-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
   ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-  ---
-
-  ## 📊 GitHub Stats
-
-  <div align="center">
-
-  ![Kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofmeright&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofmeright&layout=compact&theme=tokyonight&hide_border=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofmeright&theme=tokyonight&hide_border=true)
-
-  </div>
 
   ---
 
