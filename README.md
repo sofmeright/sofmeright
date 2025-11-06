@@ -70,6 +70,7 @@
   ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=for-the-badge&logoColor=white)
   ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
   ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logoColor=white)
+  ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
   ![Zitadel](https://img.shields.io/badge/Zitadel-6C48C5?style=for-the-badge&logoColor=white)
 
   ### Infrastructure & Virtualization
