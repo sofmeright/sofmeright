@@ -66,6 +66,7 @@
 
   ### Identity / Security
   ![Anubis](https://img.shields.io/badge/Anubis-000000?style=for-the-badge&logoColor=white)
+  ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=for-the-badge&logoColor=white)
   ![OAuth2 Proxy](https://img.shields.io/badge/OAuth2_Proxy-EB5424?style=for-the-badge&logoColor=white)
   ![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
   ![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logoColor=white)
@@ -93,16 +94,15 @@
   ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logoColor=white)
 
   ### 🌐 Networking
-  ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-  ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-  ![Netbird](https://img.shields.io/badge/Netbird-5340FF?style=for-the-badge&logoColor=white)
   ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
   ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-  ![Crowdsec](https://img.shields.io/badge/Crowdsec-1D5D8C?style=for-the-badge&logoColor=white)
+  ![Netbird](https://img.shields.io/badge/Netbird-5340FF?style=for-the-badge&logoColor=white)
+  ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+  ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
   ### Operating Systems
-  ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Alpine](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=alpinelinux&logoColor=white)
+  ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
   ### Languages & Tools
