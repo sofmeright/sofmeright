@@ -120,6 +120,7 @@
   ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
   ![Comcast Business (/29)](https://img.shields.io/badge/Comcast_Business_(\/29)-000000?style=for-the-badge&logoColor=white)
   ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
+  ![La Fin Du Monde | Unibroue](https://img.shields.io/badge/La_Fin_Du_Monde_%7C_Unibroue-FFD700?style=for-the-badge&logo=beer&logoColor=black)
   ![Netbird](https://img.shields.io/badge/Netbird-5340FF?style=for-the-badge&logoColor=white)
   ![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=for-the-badge&logoColor=white)
   ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
@@ -132,6 +133,7 @@
 
   ### Languages & Tools
   ![AutoHotkey](https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
+  ![Black Tea / Yerba Mate](https://img.shields.io/badge/Black_Tea_%2F_Yerba_Mate-8B4513?style=for-the-badge&logo=tea&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![ConnectWise](https://img.shields.io/badge/ConnectWise-D9291C?style=for-the-badge&logoColor=white)
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
