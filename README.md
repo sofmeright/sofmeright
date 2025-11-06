@@ -196,6 +196,7 @@
   <td width="50%">
 
   #### [apt-cacher-ng-oci](https://github.com/sofmeright/apt-cacher-ng-oci)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
   **Container image** for apt-cacher-ng to accelerate package downloads across your infrastructure.
 
@@ -229,6 +230,7 @@
   <td width="50%">
 
   #### [nginx-extras-oci](https://github.com/sofmeright/nginx-extras-oci)
+  ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
 
   **Custom NGINX container** with extra modules for enhanced functionality.
 
@@ -236,6 +238,100 @@
   - 📦 Extended NGINX build
   - 🔧 Additional module support
   - 🐳 OCI-compliant packaging
+
+  </td>
+  </tr>
+  </table>
+
+  ### 🔧 Custom DevOps Tools
+
+  #### GitLab CI/CD Components
+
+  <table>
+  <tr>
+  <td width="50%">
+
+  #### [stagefreight-glc](https://github.com/sofmeright/stagefreight-glc)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+  **Reusable GitLab CI component** for managing and publishing release artifacts.
+
+  **Features:**
+  - 📦 Automated artifact management
+  - 🚀 Streamlined release publishing
+  - 🔄 Reusable across projects
+
+  </td>
+  <td width="50%">
+
+  #### [ollama-glc](https://github.com/sofmeright/ollama-glc)
+
+  **GitLab CI/CD component** that provides LLM text generation via the Ollama REST API.
+
+  **Features:**
+  - 🤖 AI-powered text generation in CI/CD
+  - 🔌 Ollama REST API integration
+  - ⚙️ Configurable LLM workflows
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
+
+  #### [ntfy-glc](https://github.com/sofmeright/ntfy-glc)
+
+  **GitLab CI/CD Component** to provide ntfy web-push notifications as a stage.
+
+  **Features:**
+  - 📬 Real-time CI/CD notifications
+  - 🔔 ntfy web-push integration
+  - 📊 Pipeline status alerts
+
+  </td>
+  <td width="50%">
+
+  #### [ansible-glc](https://github.com/sofmeright/ansible-glc)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+  **GitLab CI/CD Component** for Ansible scripts and playbooks.
+
+  **Features:**
+  - 🤖 Ansible automation in CI/CD
+  - 📋 Playbook execution as pipeline stages
+  - 🔧 Infrastructure-as-Code integration
+
+  </td>
+  </tr>
+  </table>
+
+  #### Custom OCI Images
+
+  <table>
+  <tr>
+  <td width="50%">
+
+  #### [stagefreight-oci](https://github.com/sofmeright/stagefreight-oci)
+  ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
+
+  **Custom container image** for Stagefreight artifact management.
+
+  **Use Case:**
+  - 📦 Release artifact handling
+  - 🐳 OCI-compliant builds
+  - 🔄 CI/CD integration
+
+  </td>
+  <td width="50%">
+
+  #### [ansible-oci](https://github.com/sofmeright/ansible-oci)
+  ![Shell](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
+
+  **Ansible container image** for automation and configuration management.
+
+  **Use Case:**
+  - 🤖 Containerized Ansible execution
+  - 📋 Portable playbook runner
+  - 🔧 Infrastructure automation
 
   </td>
   </tr>
