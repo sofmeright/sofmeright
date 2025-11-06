@@ -20,6 +20,16 @@
   - 🏗️ Running a full homelab with Proxmox, K8s, Ceph storage, and automated deployments
 
   ---
+
+  ## 💡 What I'm Working On
+
+  - 🔄 Automating bare-metal PXE deployments
+  - 🎮 Improving virtual display driver tooling
+  - ☸️ Expanding my homelab Kubernetes cluster
+  - 🛡️ Building security-first infrastructure tools
+  - 📚 Contributing to FOSS projects that power my homelab
+
+  ---
   
   ## 🛠️ Tech Stack
 
@@ -60,6 +70,20 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+  ---
+
+  ## 📊 GitHub Stats
+
+  <div align="center">
+
+  ![Kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofmeright&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofmeright&layout=compact&theme=tokyonight&hide_border=true)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofmeright&theme=tokyonight&hide_border=true)
+
+  </div>
 
   ---
 
@@ -167,37 +191,6 @@
   </tr>
   </table>
 
-  ---
-
-  ## 📊 GitHub Stats
-
-  <div align="center">
-
-  ![Kai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofmeright&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofmeright&layout=compact&theme=tokyonight&hide_border=true)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sofmeright&theme=tokyonight&hide_border=true)
-
-  </div>
-
-  ---
-
-  ## 💡 What I'm Working On
-
-  - 🔄 Automating bare-metal PXE deployments
-  - 🎮 Improving virtual display driver tooling
-  - ☸️ Expanding my homelab Kubernetes cluster
-  - 🛡️ Building security-first infrastructure tools
-  - 📚 Contributing to FOSS projects that power my homelab
-
-  ---
-
-  ## 🤝 Connect
-
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofmeright@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
   <div align="center">
 
   ### *"I adore the FOSS community and I am so inspired by the many who develop the projects that I use in my homelab."*
@@ -205,3 +198,10 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=sofmeright&color=blueviolet)
 
   </div>
+
+  ---
+
+  ## 🤝 Connect
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sofmeright@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
