@@ -36,7 +36,7 @@
 
   **Security and infrastructure knowledge should be accessible to everyone.**
 
-  In today's interconnected world, poor security in one system affects us all. I'm dedicated to documenting and democratizing secure systems administration, breaking down paywalls and convoluted documentation that gatekeep critical knowledge.
+  In today's interconnected world, poor security in one system affects us all. I'm dedicated to learning documenting and democratizing secure systems administration, breaking down paywalls and convoluted documentation that gatekeep critical knowledge.
 
   **I believe in free software not as something noble, but as a necessity.** Technical proficiency is no longer optional—it's a requirement for navigating modern life. Those of us with professional expertise have a responsibility to intervene, lead, and share our knowledge justly, not to capitalize on it at the expense of others.
 
