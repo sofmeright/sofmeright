@@ -13,13 +13,12 @@
 
   ## 🏠 About Me
 
-  I'm passionate about **infrastructure automation** and the **FOSS community**. I build tools that solve real problems in homelab and virtualization environments.
+  I'm passionate about **infrastructure automation** and the **FOSS community**. I build tools that solve real problems in distibuted computation & storage environments.
 
-  - 🔧 Building automation for **Proxmox**, **Docker**, and **Kubernetes**
-  - 🎮 Creator of [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard) - 104⭐
+  - 🎮 Creator of [VirtualDisplayDriver_Wizard](https://github.com/sofmeright/VirtualDisplayDriver_Wizard)
   - 🌐 Focused on **declarative infrastructure** and **security-first design**
-  - 💾 Deep diving into **Ceph**, **PXE**, and **bare metal provisioning**
-  - 🏗️ Running a full homelab with K8s, Ceph storage, and automated deployments
+  - 💾 Deep diving into **Ceph**, **Docker**, **Kubernetes**, **PVE**, **Windows Server**
+  - 🏗️ Running a full homelab with Proxmox, K8s, Ceph storage, and automated deployments
 
   ---
 
