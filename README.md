@@ -76,6 +76,7 @@
   
   ### Hardware
   ![AMD](https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![ADHD](https://img.shields.io/badge/ADHD-FF6B9D?style=for-the-badge&logo=lightning&logoColor=white)
   ![AMD Radeon](https://img.shields.io/badge/AMD_Radeon-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
   ![Eaton 5PX 3000](https://img.shields.io/badge/Eaton_5PX_3000-00A651?style=for-the-badge&logoColor=white)
   ![Intel](https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=intel&logoColor=white)
