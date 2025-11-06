@@ -166,6 +166,7 @@
   <td width="50%">
 
   #### [PVE_Ceph-Disaster_Recovery](https://github.com/sofmeright/PVE_Ceph-Disaster_Recovery)
+  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
   ![Stars](https://img.shields.io/github/stars/sofmeright/PVE_Ceph-Disaster_Recovery?style=social)
 
   **Shell-based recovery solution** for Ceph monitor stores when your Proxmox cluster has lost all monitors.
@@ -186,6 +187,7 @@
   <td width="50%">
 
   #### [DD-UI](https://github.com/sofmeright/DD-UI)
+  ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
   ![Stars](https://img.shields.io/github/stars/sofmeright/DD-UI?style=social)
   ![Forks](https://img.shields.io/github/forks/sofmeright/DD-UI?style=social)
 
@@ -202,7 +204,7 @@
   <td width="50%">
 
   #### [apt-cacher-ng-oci](https://github.com/sofmeright/apt-cacher-ng-oci)
-  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+  ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white)
 
   **Container image** for apt-cacher-ng to accelerate package downloads across your infrastructure.
 
@@ -258,7 +260,6 @@
   <td width="50%">
 
   #### [stagefreight-glc](https://github.com/sofmeright/stagefreight-glc)
-  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
   **Reusable GitLab CI component** for managing and publishing release artifacts.
 
@@ -297,7 +298,6 @@
   <td width="50%">
 
   #### [ansible-glc](https://github.com/sofmeright/ansible-glc)
-  ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
   **GitLab CI/CD Component** for Ansible scripts and playbooks.
 
