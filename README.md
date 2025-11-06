@@ -17,7 +17,7 @@
   
   - 🌐 Focused on **declarative infrastructure** and **security-first design**
   - 💾 Deep diving into **Ceph**, **Docker**, **Kubernetes**, **PVE**, **Windows Server**
-  - 🏗️ Running a full homelab with Proxmox, K8s, Ceph storage, and automated deployments
+  - 🏗️ I maintain the production environment for PrecisionPlanIT ~ Proxmox, K8s, Ceph storage, and automated deployments
 
   ---
 
