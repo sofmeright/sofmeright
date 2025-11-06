@@ -48,6 +48,9 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
   ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
+  ![Supermicro](https://img.shields.io/badge/Supermicro-2EA043?style=for-the-badge&logoColor=white)
+  ![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+  ![NetApp](https://img.shields.io/badge/NetApp-0067C5?style=for-the-badge&logo=netapp&logoColor=white)
 
   ### Operating Systems
   ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
