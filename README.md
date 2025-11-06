@@ -64,7 +64,6 @@
 
   ### Git & DevOps
   ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-  ![apt-cacher-ng](https://img.shields.io/badge/apt--cacher--ng-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
   ![Harbor](https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white)
   ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
@@ -89,6 +88,7 @@
 
   ### Infrastructure & Virtualization
   ![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+  ![apt-cacher-ng](https://img.shields.io/badge/apt--cacher--ng-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Ceph](https://img.shields.io/badge/Ceph-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
   ![Chrony](https://img.shields.io/badge/Chrony-1793D1?style=for-the-badge&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
