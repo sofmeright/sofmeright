@@ -95,9 +95,13 @@
   ![Umami](https://img.shields.io/badge/Umami-000000?style=for-the-badge&logoColor=white)
 
   ### 🌐 Networking
+  ![BGP](https://img.shields.io/badge/BGP-0078D4?style=for-the-badge&logoColor=white)
+  ![CARP](https://img.shields.io/badge/CARP-212121?style=for-the-badge&logoColor=white)
   ![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
+  ![Comcast Business (/29)](https://img.shields.io/badge/Comcast_Business_(\/29)-000000?style=for-the-badge&logoColor=white)
   ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
   ![Netbird](https://img.shields.io/badge/Netbird-5340FF?style=for-the-badge&logoColor=white)
+  ![OSPFv6](https://img.shields.io/badge/OSPFv6-0078D4?style=for-the-badge&logoColor=white)
   ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
   ![RouterOS](https://img.shields.io/badge/RouterOS-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 
