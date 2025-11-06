@@ -6,10 +6,11 @@
 
   <p>
   <img src="./assets/precisionplanit-logo-v0.2.png" alt="PrecisionPlanIT" height="20" style="vertical-align: middle; margin-right: 8px;"/>
-  <strong>Founder of PrecisionPlanIT</strong>
+  <strong>Founder of PrecisionPlanIT</strong> 
   </p>
   
   [![Seattle](https://img.shields.io/badge/Seattle-WA-brightgreen)]()
+  [![Docker Hub](https://img.shields.io/badge/prplanit-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/prplanit)
   [![Stars](https://img.shields.io/github/stars/sofmeright?style=social)]()
 
   </div>
