@@ -72,6 +72,7 @@
   ### Monitoring & DevOps
   ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
   ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![NUT UPS](https://img.shields.io/badge/NUT_UPS-FFB81C?style=for-the-badge&logoColor=black)
 
   ### Languages & Tools
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
